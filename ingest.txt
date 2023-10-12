@@ -1,1 +1,2 @@
 add new file to ingest data
+elasticsearch is a search engine which helps us to search data which is ingested in that.
